@@ -11,6 +11,7 @@ export default {
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
+        "dashes-bg-purple": "#011d41",
       },
     },
   },
